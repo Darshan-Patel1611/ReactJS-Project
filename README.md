@@ -6,15 +6,18 @@ A simple counter application that demonstrates core React.js concepts such as st
 
 # Testimonial:
 A component to display testimonials, illustrating the use of props and component reusability.
-https://testimonials1611.netlify.app/
+
+[View Testimonial project](https://testimonials1611.netlify.app/)
 
 # Tourism Plane:
 A project showcasing the use of API handling and filtering to display information about tourism destinations.
-https://tourismplan1611.netlify.app/
+
+[View Tourism Plane project](https://tourismplan1611.netlify.app/)
 
 # Top Courses: 
 An application that fetches and displays top courses, demonstrating API handling and data filtering.
-https://topcourses1611.netlify.app/
+
+[View Top Courses project](https://topcourses1611.netlify.app/)
 
 # Form Using React: 
 A form implementation highlighting state management, handling user input, conditional rendering, and validation.
@@ -24,7 +27,8 @@ An application utilizing the Context API for state management to create an infor
 
 # Shopapp_Redux: 
 An e-commerce web application that integrates Redux Toolkit for store setup, slices, reducer creation, and action dispatching. It also uses React Router DOM for seamless page navigation without page refresh. The application includes features like adding/removing products, dynamic price updates, and managing the shopping cart.
-https://eshopapp1611.netlify.app/
+
+[View Shopapp_Redux project](https://eshopapp1611.netlify.app/)
 
 These projects collectively demonstrate my proficiency in React.js, including core concepts, state management, API handling, and integration with Redux for advanced state management. Each project is a testament to my ability to create functional and user-friendly web applications using React.js.
 
